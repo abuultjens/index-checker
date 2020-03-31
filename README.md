@@ -12,6 +12,6 @@ Checks if the indexes are the same in the feature matrix and target file. The fe
 ```
 # Example
 ``
-$ sh index-checker.sh 126_kounta_k-11_minfreq-10_SCALE.csv target_126_ACID.csv 
+$ sh index-checker.sh 126_kounta_k-11_minfreq-10_SCALE.csv target_126_ACID.csv
 INDEXES ARE THE SAME
 ``
